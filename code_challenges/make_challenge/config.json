@@ -1,0 +1,14 @@
+{
+    "dev" : {
+        "APIEndpoint" : "https://api-dev.test.com",
+        "Debug": "true"
+    },
+    "demo" : {
+        "APIEndpoint" : "https://api-demo.test.com",
+        "Debug": "true"
+    },
+    "prod" : {
+        "APIEndpoint" : "https://api-prod.test.com",
+        "Debug": "false"
+    }
+}
