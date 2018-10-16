@@ -123,8 +123,6 @@ def play():
     initial_deal()
     mainWindow.mainloop()
 
-__name__ = "__main__"
-
 mainWindow = tkinter.Tk()
 
 # Set up the screen and frames for the dealer and player
