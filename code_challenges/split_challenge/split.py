@@ -7,6 +7,7 @@ errors = ["Oct 12 10:54:04 gonzos-mbp com.apple.xpc.Error: (com.apple.preference
 
 
 for x in errors:
-        if ("Error" in x) or ("Warning" in x):
+        # if ("Error" in x) or ("Warning" in x):
+        if ("Error" in x):
                 print(x)
                 number = x.count("Error")
