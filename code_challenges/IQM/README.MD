@@ -1,4 +1,4 @@
-# Dexcom Code Chalenge
+# Dexcom Code Challenge
 
 ## Refactoring (Part 1)
 
